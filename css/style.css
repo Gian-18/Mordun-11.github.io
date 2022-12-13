@@ -1,0 +1,43 @@
+
+
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.atas{
+    background-color: aqua;
+    border: 10px;
+    border-color : black;
+    border-style: solid;
+    height: 200px;
+    width: 200px;
+}
+.tengah{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border-color: brown;
+    border: 10px;
+    border-style: solid;
+    margin-left: 220px;
+    position: relative;
+    bottom: 220px;
+
+}
+.bawah{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    border: 10px;
+    border-style: solid;
+    margin-left: 460px;
+    position: relative;
+    bottom: 440px;
+    right: 20px;
+}
+h1{
+    size-adjust: 2px;
+}

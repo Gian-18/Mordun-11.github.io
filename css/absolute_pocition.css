@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+.atas{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+.tengah{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.bawah{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
